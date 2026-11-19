@@ -12,7 +12,7 @@
 
 ### 如何在 Google Colab 中執行：
 1. 開啟 [Google Colab](https://colab.research.google.com/)。
-2. 建立新的筆記本，並將 `dinner_split_學號.ipynb` 的程式碼貼入儲存格中。
+2. 建立新的筆記本，並將 `dinner_split_D1485053.ipynb` 的程式碼貼入儲存格中。
 3. 點擊執行按鈕即可看到「測試一」、「測試二」與「測試三」的完整輸出結果。
 
 ---
